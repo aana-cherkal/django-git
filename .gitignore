@@ -30,3 +30,6 @@ main.tf
 
 # Text files
 test.txt
+
+#k8s
+/k8s/
