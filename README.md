@@ -1,4 +1,4 @@
-# Django K8s CI/CD Project
+# Django GitProject
 
 ## Description
 This project demonstrates a full DevOps workflow for a Django application, including:
@@ -11,14 +11,18 @@ This project demonstrates a full DevOps workflow for a Django application, inclu
 - Dockerized Django application
 - Kubernetes deployment on EC2 nodes
 - Automated CI/CD pipelines
-- Terraform provisioning for Docker container
 
 ## Project Structure
 - `mysite/` – Django project files
 - `Dockerfile` – Docker build instructions
-- `main.tf` – Terraform configuration for Docker container
-- `.github/workflows/` – GitHub Actions CI/CD workflows
-- `tasks.md` – Documentation of Git workflow and task steps
+- `screenshots/` – Screenshots of deployments, pipelines, and logs
+- `pictures/` – Profile or project images
+- `profile_pictures/` – User profile images
+- `static/` – Static files for Django
+- `.gitignore` – Ignored files and directories
+- `requirements.txt` – Python dependencies
+- `README.md` – Project documentation
+- `test.txt` – Temporary/test file
 
 ## Getting Started
 1. Clone the repository
