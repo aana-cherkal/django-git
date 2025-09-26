@@ -21,3 +21,12 @@ media/
 
 # Jenkins
 Jenkinsfile
+
+# Git Workflow
+.github/workflows/
+
+#Terraform
+main.tf
+
+# Text files
+test.txt
